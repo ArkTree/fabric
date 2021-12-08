@@ -4,7 +4,7 @@ package mocks
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/notinternal/pkg/identity"
+	"github.com/ArkTree/fabric/notinternal/pkg/identity"
 )
 
 type SignerSerializer struct {

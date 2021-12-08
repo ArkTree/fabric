@@ -15,10 +15,10 @@ import (
 	"github.com/golang/protobuf/proto"
 	pcommon "github.com/hyperledger/fabric-protos-go/common"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	"github.com/hyperledger/fabric/msp"
-	msptesttools "github.com/hyperledger/fabric/msp/mgmt/testtools"
-	"github.com/hyperledger/fabric/notinternal/peer/common"
+	"github.com/ArkTree/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/msp"
+	msptesttools "github.com/ArkTree/fabric/msp/mgmt/testtools"
+	"github.com/ArkTree/fabric/notinternal/peer/common"
 	"github.com/stretchr/testify/require"
 )
 

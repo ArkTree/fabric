@@ -10,9 +10,9 @@ import (
 	"errors"
 
 	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/bccsp/factory"
-	"github.com/hyperledger/fabric/common/channelconfig"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/bccsp/factory"
+	"github.com/ArkTree/fabric/common/channelconfig"
+	"github.com/ArkTree/fabric/protoutil"
 )
 
 // ValidateJoinBlock checks whether this block can be used as a join block for the channel participation API.

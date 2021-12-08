@@ -16,8 +16,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/hyperledger/fabric/common/flogging/floggingtest"
-	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/ArkTree/fabric/common/flogging/floggingtest"
+	"github.com/ArkTree/fabric/notinternal/pkg/comm"
 	"github.com/stretchr/testify/require"
 )
 

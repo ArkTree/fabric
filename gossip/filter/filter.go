@@ -9,9 +9,9 @@ package filter
 import (
 	"math/rand"
 
-	"github.com/hyperledger/fabric/gossip/comm"
-	"github.com/hyperledger/fabric/gossip/discovery"
-	"github.com/hyperledger/fabric/gossip/util"
+	"github.com/ArkTree/fabric/gossip/comm"
+	"github.com/ArkTree/fabric/gossip/discovery"
+	"github.com/ArkTree/fabric/gossip/util"
 )
 
 func init() { // do we really need this?

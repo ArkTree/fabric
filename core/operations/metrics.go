@@ -9,8 +9,8 @@ package operations
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/common/metrics"
-	"github.com/hyperledger/fabric/common/metrics/prometheus"
+	"github.com/ArkTree/fabric/common/metrics"
+	"github.com/ArkTree/fabric/common/metrics/prometheus"
 )
 
 var (

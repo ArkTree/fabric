@@ -4,7 +4,7 @@ package fake
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/core/chaincode"
+	"github.com/ArkTree/fabric/core/chaincode"
 )
 
 type LaunchRegistry struct {

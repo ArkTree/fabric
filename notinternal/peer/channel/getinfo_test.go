@@ -12,7 +12,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	cb "github.com/hyperledger/fabric-protos-go/common"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/notinternal/peer/common"
+	"github.com/ArkTree/fabric/notinternal/peer/common"
 	"github.com/stretchr/testify/require"
 )
 

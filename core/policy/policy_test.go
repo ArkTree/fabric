@@ -10,9 +10,9 @@ import (
 	"testing"
 
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/core/policy/mocks"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/policies"
+	"github.com/ArkTree/fabric/core/policy/mocks"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/stretchr/testify/require"
 )
 

@@ -9,7 +9,7 @@ package blkstorage
 import (
 	"os"
 
-	"github.com/hyperledger/fabric/notinternal/fileutil"
+	"github.com/ArkTree/fabric/notinternal/fileutil"
 	"github.com/pkg/errors"
 )
 

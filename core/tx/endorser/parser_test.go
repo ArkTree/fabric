@@ -11,10 +11,10 @@ import (
 
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/common/configtx"
-	endorsertx "github.com/hyperledger/fabric/core/tx/endorser"
-	"github.com/hyperledger/fabric/pkg/tx"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/configtx"
+	endorsertx "github.com/ArkTree/fabric/core/tx/endorser"
+	"github.com/ArkTree/fabric/pkg/tx"
+	"github.com/ArkTree/fabric/protoutil"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

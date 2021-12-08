@@ -12,7 +12,7 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/hyperledger/fabric/common/flogging"
+	"github.com/ArkTree/fabric/common/flogging"
 
 	"github.com/pkg/errors"
 )

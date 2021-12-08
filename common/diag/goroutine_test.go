@@ -9,8 +9,8 @@ package diag_test
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric/common/diag"
-	"github.com/hyperledger/fabric/common/flogging/floggingtest"
+	"github.com/ArkTree/fabric/common/diag"
+	"github.com/ArkTree/fabric/common/flogging/floggingtest"
 	. "github.com/onsi/gomega"
 	"github.com/onsi/gomega/gbytes"
 )

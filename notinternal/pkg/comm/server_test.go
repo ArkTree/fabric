@@ -21,9 +21,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hyperledger/fabric/common/crypto/tlsgen"
-	"github.com/hyperledger/fabric/notinternal/pkg/comm"
-	"github.com/hyperledger/fabric/notinternal/pkg/comm/testpb"
+	"github.com/ArkTree/fabric/common/crypto/tlsgen"
+	"github.com/ArkTree/fabric/notinternal/pkg/comm"
+	"github.com/ArkTree/fabric/notinternal/pkg/comm/testpb"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"

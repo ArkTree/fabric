@@ -12,9 +12,9 @@ import (
 	"github.com/golang/protobuf/proto"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
 	lb "github.com/hyperledger/fabric-protos-go/peer/lifecycle"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	"github.com/hyperledger/fabric/notinternal/peer/lifecycle/chaincode"
-	"github.com/hyperledger/fabric/notinternal/peer/lifecycle/chaincode/mock"
+	"github.com/ArkTree/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/notinternal/peer/lifecycle/chaincode"
+	"github.com/ArkTree/fabric/notinternal/peer/lifecycle/chaincode/mock"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 

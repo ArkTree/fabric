@@ -20,8 +20,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hyperledger/fabric/bccsp/factory"
-	"github.com/hyperledger/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/bccsp/factory"
+	"github.com/ArkTree/fabric/bccsp/sw"
 	"github.com/stretchr/testify/require"
 )
 

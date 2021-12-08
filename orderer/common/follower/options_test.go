@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hyperledger/fabric/common/flogging"
+	"github.com/ArkTree/fabric/common/flogging"
 	"github.com/stretchr/testify/require"
 )
 

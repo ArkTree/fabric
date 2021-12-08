@@ -14,8 +14,8 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/notinternal/peer/common"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/notinternal/peer/common"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/spf13/cobra"
 )
 

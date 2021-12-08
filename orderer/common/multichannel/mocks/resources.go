@@ -4,10 +4,10 @@ package mocks
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/common/channelconfig"
-	"github.com/hyperledger/fabric/common/configtx"
-	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/msp"
+	"github.com/ArkTree/fabric/common/channelconfig"
+	"github.com/ArkTree/fabric/common/configtx"
+	"github.com/ArkTree/fabric/common/policies"
+	"github.com/ArkTree/fabric/msp"
 )
 
 type Resources struct {

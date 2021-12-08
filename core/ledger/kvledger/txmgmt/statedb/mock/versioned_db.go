@@ -4,8 +4,8 @@ package mock
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/core/ledger/internal/version"
-	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/statedb"
+	"github.com/ArkTree/fabric/core/ledger/internal/version"
+	"github.com/ArkTree/fabric/core/ledger/kvledger/txmgmt/statedb"
 )
 
 type VersionedDB struct {

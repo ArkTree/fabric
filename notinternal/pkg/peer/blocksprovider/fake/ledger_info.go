@@ -4,7 +4,7 @@ package fake
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/notinternal/pkg/peer/blocksprovider"
+	"github.com/ArkTree/fabric/notinternal/pkg/peer/blocksprovider"
 )
 
 type LedgerInfo struct {

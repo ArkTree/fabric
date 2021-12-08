@@ -10,14 +10,14 @@ import (
 	cb "github.com/hyperledger/fabric-protos-go/common"
 	mspproto "github.com/hyperledger/fabric-protos-go/msp"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/common/channelconfig"
-	"github.com/hyperledger/fabric/common/flogging"
-	"github.com/hyperledger/fabric/common/genesis"
-	"github.com/hyperledger/fabric/core/config/configtest"
-	"github.com/hyperledger/fabric/notinternal/configtxgen/encoder"
-	"github.com/hyperledger/fabric/notinternal/configtxgen/genesisconfig"
-	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/channelconfig"
+	"github.com/ArkTree/fabric/common/flogging"
+	"github.com/ArkTree/fabric/common/genesis"
+	"github.com/ArkTree/fabric/core/config/configtest"
+	"github.com/ArkTree/fabric/notinternal/configtxgen/encoder"
+	"github.com/ArkTree/fabric/notinternal/configtxgen/genesisconfig"
+	"github.com/ArkTree/fabric/notinternal/pkg/txflags"
+	"github.com/ArkTree/fabric/protoutil"
 )
 
 var logger = flogging.MustGetLogger("common.configtx.test")

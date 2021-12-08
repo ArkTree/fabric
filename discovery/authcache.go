@@ -11,8 +11,8 @@ import (
 	"encoding/hex"
 	"sync"
 
-	"github.com/hyperledger/fabric/common/util"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/util"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/pkg/errors"
 )
 

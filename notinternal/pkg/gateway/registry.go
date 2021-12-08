@@ -18,11 +18,11 @@ import (
 	dp "github.com/hyperledger/fabric-protos-go/discovery"
 	"github.com/hyperledger/fabric-protos-go/gossip"
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/common/channelconfig"
-	"github.com/hyperledger/fabric/common/flogging"
-	gossipapi "github.com/hyperledger/fabric/gossip/api"
-	gossipcommon "github.com/hyperledger/fabric/gossip/common"
-	gossipdiscovery "github.com/hyperledger/fabric/gossip/discovery"
+	"github.com/ArkTree/fabric/common/channelconfig"
+	"github.com/ArkTree/fabric/common/flogging"
+	gossipapi "github.com/ArkTree/fabric/gossip/api"
+	gossipcommon "github.com/ArkTree/fabric/gossip/common"
+	gossipdiscovery "github.com/ArkTree/fabric/gossip/discovery"
 )
 
 type Discovery interface {

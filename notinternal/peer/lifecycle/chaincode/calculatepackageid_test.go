@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/hyperledger/fabric/notinternal/peer/lifecycle/chaincode"
-	"github.com/hyperledger/fabric/notinternal/peer/lifecycle/chaincode/mock"
+	"github.com/ArkTree/fabric/notinternal/peer/lifecycle/chaincode"
+	"github.com/ArkTree/fabric/notinternal/peer/lifecycle/chaincode/mock"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 

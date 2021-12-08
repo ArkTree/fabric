@@ -7,9 +7,9 @@ SPDX-License-Identifier: Apache-2.0
 package main
 
 import (
-	validation "github.com/hyperledger/fabric/core/handlers/validation/api"
-	"github.com/hyperledger/fabric/core/handlers/validation/builtin"
-	"github.com/hyperledger/fabric/integration/pluggable"
+	validation "github.com/ArkTree/fabric/core/handlers/validation/api"
+	"github.com/ArkTree/fabric/core/handlers/validation/builtin"
+	"github.com/ArkTree/fabric/integration/pluggable"
 )
 
 // go build -buildmode=plugin -o plugin.so

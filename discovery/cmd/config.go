@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/hyperledger/fabric/cmd/common"
-	discovery "github.com/hyperledger/fabric/discovery/client"
+	"github.com/ArkTree/fabric/cmd/common"
+	discovery "github.com/ArkTree/fabric/discovery/client"
 	"github.com/pkg/errors"
 )
 

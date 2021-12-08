@@ -14,9 +14,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hyperledger/fabric/common/crypto/tlsgen"
-	"github.com/hyperledger/fabric/notinternal/peer/common"
-	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/ArkTree/fabric/common/crypto/tlsgen"
+	"github.com/ArkTree/fabric/notinternal/peer/common"
+	"github.com/ArkTree/fabric/notinternal/pkg/comm"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/require"
 )

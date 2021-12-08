@@ -14,7 +14,7 @@ import (
 	"time"
 
 	proto "github.com/hyperledger/fabric-protos-go/gossip"
-	"github.com/hyperledger/fabric/gossip/util"
+	"github.com/ArkTree/fabric/gossip/util"
 	"github.com/stretchr/testify/require"
 )
 

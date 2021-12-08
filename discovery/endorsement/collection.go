@@ -8,8 +8,8 @@ package endorsement
 
 import (
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/gossip/api"
+	"github.com/ArkTree/fabric/common/policies"
+	"github.com/ArkTree/fabric/gossip/api"
 	"github.com/pkg/errors"
 )
 

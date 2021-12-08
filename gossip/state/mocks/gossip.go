@@ -8,13 +8,13 @@ package mocks
 
 import (
 	proto "github.com/hyperledger/fabric-protos-go/gossip"
-	"github.com/hyperledger/fabric/gossip/api"
-	"github.com/hyperledger/fabric/gossip/comm"
-	"github.com/hyperledger/fabric/gossip/common"
-	"github.com/hyperledger/fabric/gossip/discovery"
-	"github.com/hyperledger/fabric/gossip/filter"
-	"github.com/hyperledger/fabric/gossip/gossip"
-	"github.com/hyperledger/fabric/gossip/protoext"
+	"github.com/ArkTree/fabric/gossip/api"
+	"github.com/ArkTree/fabric/gossip/comm"
+	"github.com/ArkTree/fabric/gossip/common"
+	"github.com/ArkTree/fabric/gossip/discovery"
+	"github.com/ArkTree/fabric/gossip/filter"
+	"github.com/ArkTree/fabric/gossip/gossip"
+	"github.com/ArkTree/fabric/gossip/protoext"
 	"github.com/stretchr/testify/mock"
 )
 

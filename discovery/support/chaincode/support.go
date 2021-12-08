@@ -9,10 +9,10 @@ package chaincode
 import (
 	"github.com/golang/protobuf/proto"
 	common2 "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/common/chaincode"
-	"github.com/hyperledger/fabric/common/flogging"
-	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/common/policies/inquire"
+	"github.com/ArkTree/fabric/common/chaincode"
+	"github.com/ArkTree/fabric/common/flogging"
+	"github.com/ArkTree/fabric/common/policies"
+	"github.com/ArkTree/fabric/common/policies/inquire"
 )
 
 var logger = flogging.MustGetLogger("discovery.DiscoverySupport")

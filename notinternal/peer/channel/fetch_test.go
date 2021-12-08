@@ -16,10 +16,10 @@ import (
 
 	cb "github.com/hyperledger/fabric-protos-go/common"
 	ab "github.com/hyperledger/fabric-protos-go/orderer"
-	"github.com/hyperledger/fabric/core/config/configtest"
-	"github.com/hyperledger/fabric/notinternal/peer/common"
-	"github.com/hyperledger/fabric/notinternal/peer/common/mock"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/core/config/configtest"
+	"github.com/ArkTree/fabric/notinternal/peer/common"
+	"github.com/ArkTree/fabric/notinternal/peer/common/mock"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/require"
 )

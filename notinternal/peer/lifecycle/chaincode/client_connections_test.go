@@ -9,7 +9,7 @@ package chaincode
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/bccsp/sw"
 	"github.com/stretchr/testify/require"
 )
 

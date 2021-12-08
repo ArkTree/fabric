@@ -9,9 +9,9 @@ package endorser_test
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric/core/endorser"
-	"github.com/hyperledger/fabric/core/ledger"
-	"github.com/hyperledger/fabric/msp"
+	"github.com/ArkTree/fabric/core/endorser"
+	"github.com/ArkTree/fabric/core/ledger"
+	"github.com/ArkTree/fabric/msp"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

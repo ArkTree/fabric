@@ -4,8 +4,8 @@ package fake
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/notinternal/pkg/peer/blocksprovider"
-	"github.com/hyperledger/fabric/notinternal/pkg/peer/orderers"
+	"github.com/ArkTree/fabric/notinternal/pkg/peer/blocksprovider"
+	"github.com/ArkTree/fabric/notinternal/pkg/peer/orderers"
 )
 
 type OrdererConnectionSource struct {

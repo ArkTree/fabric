@@ -4,8 +4,8 @@ package mocks
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/orderer/common/follower"
-	"github.com/hyperledger/fabric/orderer/common/types"
+	"github.com/ArkTree/fabric/orderer/common/follower"
+	"github.com/ArkTree/fabric/orderer/common/types"
 )
 
 type ChannelParticipationMetricsReporter struct {

@@ -12,8 +12,8 @@ import (
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/common"
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/notinternal/pkg/txflags"
+	"github.com/ArkTree/fabric/protoutil"
 )
 
 const (

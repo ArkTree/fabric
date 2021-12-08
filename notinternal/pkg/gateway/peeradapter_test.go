@@ -9,7 +9,7 @@ package gateway
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric/core/peer"
+	"github.com/ArkTree/fabric/core/peer"
 	"github.com/stretchr/testify/require"
 )
 

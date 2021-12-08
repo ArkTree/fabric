@@ -10,8 +10,8 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/hyperledger/fabric/common/chaincode"
-	"github.com/hyperledger/fabric/core/ledger/cceventmgmt"
+	"github.com/ArkTree/fabric/common/chaincode"
+	"github.com/ArkTree/fabric/core/ledger/cceventmgmt"
 )
 
 // Subscription channels information flow

@@ -11,8 +11,8 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/common/capabilities"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/capabilities"
+	"github.com/ArkTree/fabric/protoutil"
 	. "github.com/onsi/gomega"
 )
 

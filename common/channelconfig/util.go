@@ -17,8 +17,8 @@ import (
 	ab "github.com/hyperledger/fabric-protos-go/orderer"
 	"github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/bccsp"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/pkg/errors"
 )
 

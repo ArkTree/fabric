@@ -12,11 +12,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hyperledger/fabric/cmd/common"
-	"github.com/hyperledger/fabric/cmd/common/comm"
-	"github.com/hyperledger/fabric/cmd/common/signer"
-	discovery "github.com/hyperledger/fabric/discovery/client"
-	corecomm "github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/ArkTree/fabric/cmd/common"
+	"github.com/ArkTree/fabric/cmd/common/comm"
+	"github.com/ArkTree/fabric/cmd/common/signer"
+	discovery "github.com/ArkTree/fabric/discovery/client"
+	corecomm "github.com/ArkTree/fabric/notinternal/pkg/comm"
 	"github.com/stretchr/testify/require"
 )
 

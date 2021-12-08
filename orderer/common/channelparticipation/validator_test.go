@@ -12,9 +12,9 @@ import (
 	"testing"
 
 	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/orderer/common/channelparticipation"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/bccsp"
+	"github.com/ArkTree/fabric/orderer/common/channelparticipation"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/stretchr/testify/require"
 )
 

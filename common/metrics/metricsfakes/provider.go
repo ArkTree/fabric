@@ -4,7 +4,7 @@ package metricsfakes
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/common/metrics"
+	"github.com/ArkTree/fabric/common/metrics"
 )
 
 type Provider struct {

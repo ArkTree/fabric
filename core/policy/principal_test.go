@@ -11,8 +11,8 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	"github.com/hyperledger/fabric/msp/mgmt"
+	"github.com/ArkTree/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/msp/mgmt"
 	"github.com/stretchr/testify/require"
 )
 

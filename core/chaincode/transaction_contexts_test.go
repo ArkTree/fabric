@@ -8,9 +8,9 @@ package chaincode_test
 
 import (
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/core/chaincode"
-	"github.com/hyperledger/fabric/core/chaincode/mock"
-	"github.com/hyperledger/fabric/core/common/ccprovider"
+	"github.com/ArkTree/fabric/core/chaincode"
+	"github.com/ArkTree/fabric/core/chaincode/mock"
+	"github.com/ArkTree/fabric/core/common/ccprovider"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

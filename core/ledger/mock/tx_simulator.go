@@ -4,8 +4,8 @@ package mock
 import (
 	"sync"
 
-	ledgera "github.com/hyperledger/fabric/common/ledger"
-	"github.com/hyperledger/fabric/core/ledger"
+	ledgera "github.com/ArkTree/fabric/common/ledger"
+	"github.com/ArkTree/fabric/core/ledger"
 )
 
 type TxSimulator struct {

@@ -8,9 +8,9 @@ package confighistorytest
 
 import (
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/core/ledger"
-	"github.com/hyperledger/fabric/core/ledger/confighistory"
-	"github.com/hyperledger/fabric/core/ledger/mock"
+	"github.com/ArkTree/fabric/core/ledger"
+	"github.com/ArkTree/fabric/core/ledger/confighistory"
+	"github.com/ArkTree/fabric/core/ledger/mock"
 )
 
 type Mgr struct {

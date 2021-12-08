@@ -5,8 +5,8 @@ import (
 	"sync"
 
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/msp"
+	"github.com/ArkTree/fabric/protoutil"
 )
 
 type ConvertiblePolicy struct {

@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/hyperledger/fabric/notinternal/cryptogen/metadata"
+	"github.com/ArkTree/fabric/notinternal/cryptogen/metadata"
 )
 
 const ProgramName = "configtxlator"

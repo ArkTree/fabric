@@ -13,7 +13,7 @@ import (
 	. "github.com/onsi/gomega"
 
 	"github.com/hyperledger/fabric-protos-go/orderer"
-	"github.com/hyperledger/fabric/notinternal/pkg/identity"
+	"github.com/ArkTree/fabric/notinternal/pkg/identity"
 )
 
 //go:generate counterfeiter -o fake/signer.go --fake-name Signer . signer

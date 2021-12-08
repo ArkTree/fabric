@@ -11,12 +11,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/hyperledger/fabric/gossip/comm"
-	"github.com/hyperledger/fabric/gossip/common"
-	"github.com/hyperledger/fabric/gossip/discovery"
-	"github.com/hyperledger/fabric/gossip/election"
-	"github.com/hyperledger/fabric/gossip/gossip/algo"
-	"github.com/hyperledger/fabric/gossip/util"
+	"github.com/ArkTree/fabric/gossip/comm"
+	"github.com/ArkTree/fabric/gossip/common"
+	"github.com/ArkTree/fabric/gossip/discovery"
+	"github.com/ArkTree/fabric/gossip/election"
+	"github.com/ArkTree/fabric/gossip/gossip/algo"
+	"github.com/ArkTree/fabric/gossip/util"
 	"github.com/spf13/viper"
 )
 

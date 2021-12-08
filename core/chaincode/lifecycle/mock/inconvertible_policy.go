@@ -4,8 +4,8 @@ package mock
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/msp"
+	"github.com/ArkTree/fabric/protoutil"
 )
 
 type InconvertiblePolicy struct {

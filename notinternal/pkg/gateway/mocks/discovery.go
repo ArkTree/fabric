@@ -6,9 +6,9 @@ import (
 
 	"github.com/hyperledger/fabric-protos-go/discovery"
 	"github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/gossip/api"
-	"github.com/hyperledger/fabric/gossip/common"
-	discoverya "github.com/hyperledger/fabric/gossip/discovery"
+	"github.com/ArkTree/fabric/gossip/api"
+	"github.com/ArkTree/fabric/gossip/common"
+	discoverya "github.com/ArkTree/fabric/gossip/discovery"
 )
 
 type Discovery struct {

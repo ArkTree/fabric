@@ -8,9 +8,9 @@ package gateway
 
 import (
 	peerproto "github.com/hyperledger/fabric-protos-go/peer"
-	commonledger "github.com/hyperledger/fabric/common/ledger"
-	coreledger "github.com/hyperledger/fabric/core/ledger"
-	"github.com/hyperledger/fabric/core/peer"
+	commonledger "github.com/ArkTree/fabric/common/ledger"
+	coreledger "github.com/ArkTree/fabric/core/ledger"
+	"github.com/ArkTree/fabric/core/peer"
 	"github.com/pkg/errors"
 )
 

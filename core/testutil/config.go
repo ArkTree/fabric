@@ -12,9 +12,9 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/hyperledger/fabric/bccsp/factory"
-	"github.com/hyperledger/fabric/core/config/configtest"
-	"github.com/hyperledger/fabric/msp"
+	"github.com/ArkTree/fabric/bccsp/factory"
+	"github.com/ArkTree/fabric/core/config/configtest"
+	"github.com/ArkTree/fabric/msp"
 	"github.com/spf13/viper"
 )
 

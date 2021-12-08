@@ -13,7 +13,7 @@ import (
 	"time"
 
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/ArkTree/fabric/notinternal/pkg/comm"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

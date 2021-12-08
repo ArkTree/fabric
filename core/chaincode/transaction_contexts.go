@@ -10,8 +10,8 @@ import (
 	"sync"
 
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	commonledger "github.com/hyperledger/fabric/common/ledger"
-	"github.com/hyperledger/fabric/core/common/ccprovider"
+	commonledger "github.com/ArkTree/fabric/common/ledger"
+	"github.com/ArkTree/fabric/core/common/ccprovider"
 	"github.com/pkg/errors"
 )
 

@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/common/ledger"
+	"github.com/ArkTree/fabric/common/ledger"
 )
 
 type Ledger struct {

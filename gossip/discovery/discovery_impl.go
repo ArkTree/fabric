@@ -16,10 +16,10 @@ import (
 	"time"
 
 	proto "github.com/hyperledger/fabric-protos-go/gossip"
-	"github.com/hyperledger/fabric/gossip/common"
-	"github.com/hyperledger/fabric/gossip/gossip/msgstore"
-	"github.com/hyperledger/fabric/gossip/protoext"
-	"github.com/hyperledger/fabric/gossip/util"
+	"github.com/ArkTree/fabric/gossip/common"
+	"github.com/ArkTree/fabric/gossip/gossip/msgstore"
+	"github.com/ArkTree/fabric/gossip/protoext"
+	"github.com/ArkTree/fabric/gossip/util"
 	"github.com/pkg/errors"
 )
 

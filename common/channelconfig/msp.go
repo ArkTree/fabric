@@ -11,9 +11,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	mspprotos "github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/msp/cache"
+	"github.com/ArkTree/fabric/bccsp"
+	"github.com/ArkTree/fabric/msp"
+	"github.com/ArkTree/fabric/msp/cache"
 	"github.com/pkg/errors"
 )
 

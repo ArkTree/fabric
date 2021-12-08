@@ -9,8 +9,8 @@ package inactive_test
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric/orderer/common/types"
-	"github.com/hyperledger/fabric/orderer/consensus/inactive"
+	"github.com/ArkTree/fabric/orderer/common/types"
+	"github.com/ArkTree/fabric/orderer/consensus/inactive"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 )

@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	"github.com/hyperledger/fabric/notinternal/peer/common"
+	"github.com/ArkTree/fabric/bccsp"
+	"github.com/ArkTree/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/notinternal/peer/common"
 	"github.com/spf13/cobra"
 	"github.com/stretchr/testify/require"
 )

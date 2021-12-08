@@ -5,8 +5,8 @@ import (
 	"sync"
 
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/common/deliver"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/deliver"
+	"github.com/ArkTree/fabric/protoutil"
 )
 
 type PrivateDataResponseSender struct {

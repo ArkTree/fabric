@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/hyperledger/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/bccsp/sw"
 	"github.com/stretchr/testify/require"
 )
 

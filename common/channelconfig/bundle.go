@@ -8,13 +8,13 @@ package channelconfig
 
 import (
 	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/common/cauthdsl"
-	"github.com/hyperledger/fabric/common/configtx"
-	"github.com/hyperledger/fabric/common/flogging"
-	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/bccsp"
+	"github.com/ArkTree/fabric/common/cauthdsl"
+	"github.com/ArkTree/fabric/common/configtx"
+	"github.com/ArkTree/fabric/common/flogging"
+	"github.com/ArkTree/fabric/common/policies"
+	"github.com/ArkTree/fabric/msp"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/pkg/errors"
 )
 

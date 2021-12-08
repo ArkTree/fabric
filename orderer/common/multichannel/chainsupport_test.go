@@ -9,14 +9,14 @@ package multichannel
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric/orderer/common/localconfig"
-	"github.com/hyperledger/fabric/orderer/common/msgprocessor"
-	"github.com/hyperledger/fabric/orderer/common/types"
+	"github.com/ArkTree/fabric/orderer/common/localconfig"
+	"github.com/ArkTree/fabric/orderer/common/msgprocessor"
+	"github.com/ArkTree/fabric/orderer/common/types"
 
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	msgprocessormocks "github.com/hyperledger/fabric/orderer/common/msgprocessor/mocks"
-	"github.com/hyperledger/fabric/orderer/common/multichannel/mocks"
+	"github.com/ArkTree/fabric/bccsp/sw"
+	msgprocessormocks "github.com/ArkTree/fabric/orderer/common/msgprocessor/mocks"
+	"github.com/ArkTree/fabric/orderer/common/multichannel/mocks"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 )

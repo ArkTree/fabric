@@ -11,9 +11,9 @@ import (
 	"os"
 	"path/filepath"
 
-	fabricmsp "github.com/hyperledger/fabric/msp"
-	"github.com/hyperledger/fabric/notinternal/cryptogen/ca"
-	"github.com/hyperledger/fabric/notinternal/cryptogen/csp"
+	fabricmsp "github.com/ArkTree/fabric/msp"
+	"github.com/ArkTree/fabric/notinternal/cryptogen/ca"
+	"github.com/ArkTree/fabric/notinternal/cryptogen/csp"
 	"github.com/pkg/errors"
 	"gopkg.in/yaml.v2"
 )

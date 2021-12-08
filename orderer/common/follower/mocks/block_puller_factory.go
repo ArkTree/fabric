@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/orderer/common/follower"
+	"github.com/ArkTree/fabric/orderer/common/follower"
 )
 
 type BlockPullerFactory struct {

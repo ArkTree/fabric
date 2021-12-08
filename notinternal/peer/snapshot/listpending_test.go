@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	pb "github.com/hyperledger/fabric-protos-go/peer"
-	"github.com/hyperledger/fabric/notinternal/peer/snapshot/mock"
+	"github.com/ArkTree/fabric/notinternal/peer/snapshot/mock"
 	"github.com/onsi/gomega/gbytes"
 	"github.com/stretchr/testify/require"
 )

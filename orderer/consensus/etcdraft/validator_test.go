@@ -16,13 +16,13 @@ import (
 	. "github.com/onsi/gomega"
 
 	raftprotos "github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
-	"github.com/hyperledger/fabric/bccsp"
-	"github.com/hyperledger/fabric/bccsp/sw"
-	"github.com/hyperledger/fabric/common/channelconfig"
-	"github.com/hyperledger/fabric/common/crypto/tlsgen"
-	"github.com/hyperledger/fabric/orderer/consensus/etcdraft"
-	"github.com/hyperledger/fabric/orderer/consensus/etcdraft/mocks"
-	consensusmocks "github.com/hyperledger/fabric/orderer/consensus/mocks"
+	"github.com/ArkTree/fabric/bccsp"
+	"github.com/ArkTree/fabric/bccsp/sw"
+	"github.com/ArkTree/fabric/common/channelconfig"
+	"github.com/ArkTree/fabric/common/crypto/tlsgen"
+	"github.com/ArkTree/fabric/orderer/consensus/etcdraft"
+	"github.com/ArkTree/fabric/orderer/consensus/etcdraft/mocks"
+	consensusmocks "github.com/ArkTree/fabric/orderer/consensus/mocks"
 )
 
 func makeOrdererOrg(caCert []byte) *mocks.OrdererOrg {

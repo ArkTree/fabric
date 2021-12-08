@@ -13,8 +13,8 @@ import (
 	"testing"
 
 	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
-	"github.com/hyperledger/fabric/core/chaincode"
-	"github.com/hyperledger/fabric/core/chaincode/mock"
+	"github.com/ArkTree/fabric/core/chaincode"
+	"github.com/ArkTree/fabric/core/chaincode/mock"
 	"github.com/stretchr/testify/require"
 )
 

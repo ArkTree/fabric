@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric/common/policies"
-	"github.com/hyperledger/fabric/protoutil"
+	"github.com/ArkTree/fabric/common/policies"
+	"github.com/ArkTree/fabric/protoutil"
 	"github.com/stretchr/testify/require"
 )
 

@@ -4,7 +4,7 @@ package mock
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/core/container/ccintf"
+	"github.com/ArkTree/fabric/core/container/ccintf"
 )
 
 type ContainerRouter struct {

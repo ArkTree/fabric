@@ -4,8 +4,8 @@ package mock
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric/core/chaincode/lifecycle"
-	"github.com/hyperledger/fabric/core/ledger"
+	"github.com/ArkTree/fabric/core/chaincode/lifecycle"
+	"github.com/ArkTree/fabric/core/ledger"
 )
 
 type Lifecycle struct {
