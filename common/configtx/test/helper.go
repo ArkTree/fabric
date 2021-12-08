@@ -14,9 +14,9 @@ import (
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/common/genesis"
 	"github.com/hyperledger/fabric/core/config/configtest"
-	"github.com/hyperledger/fabric/internal/configtxgen/encoder"
-	"github.com/hyperledger/fabric/internal/configtxgen/genesisconfig"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/notinternal/configtxgen/encoder"
+	"github.com/hyperledger/fabric/notinternal/configtxgen/genesisconfig"
+	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
 	"github.com/hyperledger/fabric/protoutil"
 )
 

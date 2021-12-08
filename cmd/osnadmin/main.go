@@ -19,7 +19,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/internal/osnadmin"
+	"github.com/hyperledger/fabric/notinternal/osnadmin"
 	"github.com/hyperledger/fabric/protoutil"
 	"gopkg.in/alecthomas/kingpin.v2"
 )

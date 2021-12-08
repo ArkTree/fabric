@@ -25,7 +25,7 @@ import (
 	util2 "github.com/hyperledger/fabric/common/util"
 	"github.com/hyperledger/fabric/core/ledger"
 	"github.com/hyperledger/fabric/core/ledger/internal/version"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
 	"github.com/stretchr/testify/require"
 )
 

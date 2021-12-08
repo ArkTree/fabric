@@ -16,10 +16,10 @@ import (
 	"github.com/hyperledger/fabric-protos-go/orderer"
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/common/util"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
-	"github.com/hyperledger/fabric/internal/pkg/identity"
-	"github.com/hyperledger/fabric/internal/pkg/peer/blocksprovider"
-	"github.com/hyperledger/fabric/internal/pkg/peer/orderers"
+	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/hyperledger/fabric/notinternal/pkg/identity"
+	"github.com/hyperledger/fabric/notinternal/pkg/peer/blocksprovider"
+	"github.com/hyperledger/fabric/notinternal/pkg/peer/orderers"
 	"google.golang.org/grpc"
 )
 

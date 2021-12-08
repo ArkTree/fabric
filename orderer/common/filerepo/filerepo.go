@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hyperledger/fabric/internal/fileutil"
+	"github.com/hyperledger/fabric/notinternal/fileutil"
 	"github.com/pkg/errors"
 )
 

@@ -20,7 +20,7 @@ import (
 	"github.com/hyperledger/fabric/common/ledger/testutil"
 	commonledgerutil "github.com/hyperledger/fabric/common/ledger/util"
 	"github.com/hyperledger/fabric/common/metrics/disabled"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/stretchr/testify/require"
 )

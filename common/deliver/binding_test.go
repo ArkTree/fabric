@@ -18,8 +18,8 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
-	"github.com/hyperledger/fabric/internal/pkg/comm/testpb"
+	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/hyperledger/fabric/notinternal/pkg/comm/testpb"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"

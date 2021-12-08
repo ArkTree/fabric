@@ -22,7 +22,7 @@ import (
 	"github.com/hyperledger/fabric/core/ledger/confighistory/confighistorytest"
 	"github.com/hyperledger/fabric/core/ledger/internal/version"
 	"github.com/hyperledger/fabric/core/ledger/mock"
-	"github.com/hyperledger/fabric/internal/fileutil"
+	"github.com/hyperledger/fabric/notinternal/fileutil"
 	"github.com/stretchr/testify/require"
 	"github.com/willf/bitset"
 )

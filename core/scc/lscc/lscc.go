@@ -34,8 +34,8 @@ import (
 	"github.com/hyperledger/fabric/core/ledger/cceventmgmt"
 	"github.com/hyperledger/fabric/core/peer"
 	"github.com/hyperledger/fabric/core/scc"
-	"github.com/hyperledger/fabric/internal/ccmetadata"
 	"github.com/hyperledger/fabric/msp"
+	"github.com/hyperledger/fabric/notinternal/ccmetadata"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/pkg/errors"
 )

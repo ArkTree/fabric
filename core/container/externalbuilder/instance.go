@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/hyperledger/fabric/core/container/ccintf"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
+	"github.com/hyperledger/fabric/notinternal/pkg/comm"
 	"github.com/pkg/errors"
 )
 

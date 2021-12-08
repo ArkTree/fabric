@@ -45,7 +45,7 @@ import (
 	"github.com/hyperledger/fabric/gossip/protoext"
 	"github.com/hyperledger/fabric/gossip/state/mocks"
 	gossiputil "github.com/hyperledger/fabric/gossip/util"
-	corecomm "github.com/hyperledger/fabric/internal/pkg/comm"
+	corecomm "github.com/hyperledger/fabric/notinternal/pkg/comm"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/onsi/gomega"
 	"github.com/onsi/gomega/gbytes"

@@ -26,7 +26,7 @@ import (
 	"github.com/hyperledger/fabric/core/ledger/pvtdatapolicy"
 	btltestutil "github.com/hyperledger/fabric/core/ledger/pvtdatapolicy/testutil"
 	"github.com/hyperledger/fabric/core/ledger/util"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
 	"github.com/stretchr/testify/require"
 )
 

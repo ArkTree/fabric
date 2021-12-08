@@ -22,9 +22,9 @@ import (
 	_ "github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
 	_ "github.com/hyperledger/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/common/flogging"
-	"github.com/hyperledger/fabric/internal/configtxlator/metadata"
-	"github.com/hyperledger/fabric/internal/configtxlator/rest"
-	"github.com/hyperledger/fabric/internal/configtxlator/update"
+	"github.com/hyperledger/fabric/notinternal/configtxlator/metadata"
+	"github.com/hyperledger/fabric/notinternal/configtxlator/rest"
+	"github.com/hyperledger/fabric/notinternal/configtxlator/update"
 
 	"github.com/gorilla/handlers"
 	"github.com/pkg/errors"

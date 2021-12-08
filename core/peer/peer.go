@@ -33,10 +33,10 @@ import (
 	"github.com/hyperledger/fabric/core/transientstore"
 	"github.com/hyperledger/fabric/gossip/api"
 	gossipservice "github.com/hyperledger/fabric/gossip/service"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
-	"github.com/hyperledger/fabric/internal/pkg/peer/orderers"
 	"github.com/hyperledger/fabric/msp"
 	mspmgmt "github.com/hyperledger/fabric/msp/mgmt"
+	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	"github.com/hyperledger/fabric/notinternal/pkg/peer/orderers"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/pkg/errors"
 )

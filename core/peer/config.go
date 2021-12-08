@@ -30,8 +30,8 @@ import (
 
 	"github.com/hyperledger/fabric/common/viperutil"
 	"github.com/hyperledger/fabric/core/config"
-	"github.com/hyperledger/fabric/internal/pkg/comm"
-	gatewayconfig "github.com/hyperledger/fabric/internal/pkg/gateway/config"
+	"github.com/hyperledger/fabric/notinternal/pkg/comm"
+	gatewayconfig "github.com/hyperledger/fabric/notinternal/pkg/gateway/config"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
 )

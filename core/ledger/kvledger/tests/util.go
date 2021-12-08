@@ -17,7 +17,7 @@ import (
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/common/policydsl"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/tests/fakes"
-	"github.com/hyperledger/fabric/internal/pkg/txflags"
+	"github.com/hyperledger/fabric/notinternal/pkg/txflags"
 	"github.com/hyperledger/fabric/protoutil"
 )
 
